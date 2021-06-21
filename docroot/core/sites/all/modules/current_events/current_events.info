@@ -1,0 +1,4 @@
+name = Current Events
+description = This module will add a block in Banner top of the site with the link of the most recents events
+core = 7.x
+package = My Modules
